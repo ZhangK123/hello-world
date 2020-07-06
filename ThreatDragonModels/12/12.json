@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "12"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "132"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "123",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
