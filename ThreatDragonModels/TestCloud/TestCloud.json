@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "title": "TestCloud"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "wuhahaha",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "Copy of wuhahaha",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ]
+  }
+}
