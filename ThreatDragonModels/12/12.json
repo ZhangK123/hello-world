@@ -154,9 +154,16 @@
               "angle": 0,
               "id": "4938f109-b63e-49b3-a081-3d73c273b79e",
               "z": 6,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
                   "text": "process 5"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             },
@@ -173,9 +180,16 @@
               "angle": 0,
               "id": "7eabf617-70d3-44aa-8f2a-2c9dd945a47f",
               "z": 7,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
                   "text": "process 6"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
