@@ -8,7 +8,91 @@
       {
         "title": "12312312312312",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "e9bc5a81-fd40-4411-9ba7-12a561bfff16",
+              "z": 1,
+              "attrs": {
+                "text": {
+                  "text": "actor 0"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "49718a68-9c5a-4d7b-8086-fcc0d942218a",
+              "z": 2,
+              "attrs": {
+                "text": {
+                  "text": "actor 1"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "b17f081c-6eff-4074-b190-2e76fd15dffb",
+              "z": 3,
+              "attrs": {
+                "text": {
+                  "text": "actor 2"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "2f8e8b7f-9304-4bf3-84d7-f539ac732239",
+              "z": 4,
+              "attrs": {
+                "text": {
+                  "text": "actor 3"
+                }
+              }
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ]
   }
